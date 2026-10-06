@@ -1,4 +1,4 @@
-user_input = input()
+user_input = input().strip()
 
 
 if user_input == "0":

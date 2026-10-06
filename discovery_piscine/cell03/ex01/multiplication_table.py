@@ -1,4 +1,4 @@
-user_input = input("Enter a number: ")
+user_input = input("Enter a number: ").strip()
 
 if not user_input.isdigit():
     print("Error")

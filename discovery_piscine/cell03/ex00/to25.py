@@ -1,4 +1,4 @@
-user_input = input("Enter a number that is less than 25: ")
+user_input = input("Enter a number that is less than 25: ").strip()
 
 
 if int(user_input) > 25:
