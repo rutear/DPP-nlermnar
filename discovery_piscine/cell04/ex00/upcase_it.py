@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 user_input = input("give me a word:").strip()
 
 if user_input.isdigit():

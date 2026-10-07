@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 password = "fnaf"
 
 user_input = input("Enter the password: ")

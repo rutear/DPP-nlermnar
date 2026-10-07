@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 user_input = input("Enter a number that is less than 25: ").strip()
 
 
