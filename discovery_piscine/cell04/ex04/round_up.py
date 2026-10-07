@@ -2,10 +2,10 @@ user_input = input("give a number: ")
 
 num = float(user_input)
 round_num = round(num)
-print(f"{num},{round_num}")
+# print(f"{num},{round_num}")
 if num > round_num:
-    print("true")
+    # print("true")
     print(round_num+1)
     exit()
 else:
-    print("false")
+    print(round_num)
